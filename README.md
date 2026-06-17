@@ -45,7 +45,6 @@
 To build a strong foundation in Software Development and Data Science while continuously improving my technical and problem-solving skills.
 
 Thanks for visiting my profile! 😊
-## Hi there 👋
 
 <!--
 **MadhuriVisarapu01/MadhuriVisarapu01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
